@@ -12,7 +12,7 @@ The appplication includes a landing page showing what I do, my education backgro
 * And you are all done
 
 ## Live server
-You can view the web live on [portporlio] (add your deployed link)
+You can view the web live on [portporlio] ( https://brianjoseph8132.github.io/my-personal-website/)
 
 ## Known Bugs 
 The application works perfectly well, no bugs.
@@ -24,6 +24,6 @@ HTML, CSS, Fontawesome icons
 email: brianjoseph@gmail.com
 
 ## Licence
-* Licenced under the [MT-Licence] ()*
+* Licenced under the [MT-Licence] (https://github.com/Brianjoseph8132/my-personal-website/blob/main/LICENSE.md)*
 
 copy (c) 2024 **Brian Joseph**
