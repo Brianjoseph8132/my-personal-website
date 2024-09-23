@@ -70,6 +70,8 @@ ul li a:hover{
     letter-spacing: 1px;
     line-height: 24px;
     padding: 10px;
+    color: black;
+    text-align: left;
 }
 .info span{
     color: lightseagreen;
@@ -86,6 +88,7 @@ ul li a:hover{
 }
 .info a:hover{
     background-color: lightseagreen;
+    color: white;
 }
 .image{
     width: 30%;
@@ -138,6 +141,7 @@ ul li a:hover{
 .about-content h3{
     font-size: 62px;
     color: white;
+    text-align: left;
 }
 .about-content p{
     color: white;
@@ -159,6 +163,7 @@ ul li a:hover{
 }
 .about-content a:hover{
     background-color: lightseagreen;
+    color: white;
 }
 .skills h3{
     font-size: 24px;
@@ -166,6 +171,8 @@ ul li a:hover{
     line-height: 24px;
     padding: 10px;
     text-decoration: underline;
+    color: black;
+    text-align: left;
 }
 .skills h2{
     text-align: center;
@@ -202,6 +209,7 @@ ul li a:hover{
 .com li h3{
     font-size: 32px;
     color: black;
+    text-align: left;
 }
 .com p{
     color: black;
@@ -220,6 +228,8 @@ ul li a:hover{
 }
 .dev li h3{
     font-size: 32px;
+    color: black;
+    text-align: left;
 }
 .dev p{
     font-size: 18px;
@@ -237,6 +247,8 @@ ul li a:hover{
 }
 .learn li h3{
     font-size: 32px;
+    text-align: left;
+    color: black;
 }
 .learn p{
     font-size: 18px;
@@ -254,6 +266,8 @@ ul li a:hover{
 }
 .music li h3{
     font-size: 32px;
+    color: black;
+    text-align: left;
 }
 .music p{
     font-size: 18px;
@@ -307,6 +321,7 @@ ul li a:hover{
 }
 .butn a:hover{
     background-color: lightseagreen;
+    color: white;
 }
 footer{
     background-color: black;
