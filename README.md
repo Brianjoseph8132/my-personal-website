@@ -12,7 +12,7 @@ The appplication includes a landing page showing what I do, my education backgro
 * And you are all done
 
 ## Live server
-You can view the web live on [portforlio] ( https://brianjoseph8132.github.io/my-personal-website/)
+You can view the web live on (https://brianjoseph8132.github.io/my-personal-website/)
 
 ## Known Bugs 
 The application works perfectly well, no bugs.
